@@ -13,7 +13,7 @@ I am a master student from the Department of Biostatistics at the Peking Univers
 
 Research Interests
 -----------
-My current research interests are on kernel smoothing, nonparametric statistics, and optimization on nonlinear manifolds. On the applied side, I work on detecting and understanding cosmic filaments in a statistically motivated way.
+My current research interests are causal inference and biostatistics.
 
 Education
 -----------
