@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a master student in department of biostatistics, school of public health, Peking University. My supervior is professor Xiao-Hua Zhou at Beijing International Center for Mathematical Research and department of bistatistics in Peking University. My current research interest lies in causal inference.
+Hi, I am a master student in department of biostatistics, school of public health, Peking University. My current research interest lies in causal inference and biostatistics.
