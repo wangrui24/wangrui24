@@ -1,6 +1,6 @@
 ---
 title: "Light and shadow"
-excerpt: "Shot at Red Brick Art Museum<br/><img src='/images/ls.png'>"
+excerpt: "This photo was taken at Red Brick Art Museum, Beijing<br/><img src='/images/ls.png'>"
 collection: portfolio
 ---
 <img src='/images/ls.png'>
