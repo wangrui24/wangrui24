@@ -1,7 +1,7 @@
 ---
 title: "Probability and Statistics"
 collection: teaching
-type: "Undergraduate&Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching
 venue: "National School of Development, Peking University"
 date: 2022-01-01
