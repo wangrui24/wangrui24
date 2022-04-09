@@ -17,6 +17,6 @@ My current research interests are causal inference and biostatistics.
 
 Education
 -----------
-* M.S. in Epidemiology and Health Statistics (Expected), [Peking University](https://www.pku.edu.cn/), Sep.2020 -- Mar.2022
-* B.S. in Economics, [Peking University](https://www.pku.edu.cn/), Sep.2016 -- Jun.2020
-* B.S. in Medicine, [Peking University](https://www.pku.edu.cn/), Sep.2015 -- Jun.2020
+* M.S. in Epidemiology and Health Statistics (Expected), [Peking University](https://www.pku.edu.cn/), Sep.2020 -- Jul.2022
+* B.S. in Economics, [Peking University](https://www.pku.edu.cn/), Sep.2016 -- Jul.2020
+* B.S. in Medicine, [Peking University](https://www.pku.edu.cn/), Sep.2015 -- Jul.2020
