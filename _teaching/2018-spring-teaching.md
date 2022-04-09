@@ -2,13 +2,13 @@
 title: "Field Study in Economics"
 collection: teaching
 type: "Undergraduate&Graduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Peking University, National School of Development"
+permalink: /teaching/2018-spring-teaching
+venue: "National School of Development, Peking University"
 date: 2018-01-01
 location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 ### Course Descriptions
 This course aims at introducing the basic theory, method and technology of enterprise survey, relying on the Enterprise Survey of Innovation and Entrepreneurship in China (ESIEC). This course consists of two parts, one is class teaching in school, and the other is the survey in the field. Students can get control of the method of sampling, questionnaire designing, survey organizing and quality controlling of the enterprise survey. At the meantime, they can improve the communicating skills.
