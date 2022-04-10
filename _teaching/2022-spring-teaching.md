@@ -13,7 +13,7 @@ location: "Beijing, China"
 
 ### Course Materials
 #### Exercise class
-[Lecture 4]()
+[Lecture 4](http://wangrui24.github.io/files/teaching/Lecture04.pdf)
 
-[Lecture 6]()
+[Lecture 6](http://wangrui24.github.io/files/teaching/Lecture06.pdf)
 
