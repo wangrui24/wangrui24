@@ -10,3 +10,10 @@ location: "Beijing, China"
 
 ### Instructor
 [Xiaobao Zhu](http://math.ruc.edu.cn/szdw/zgjs/1c97c4bb20264007b091502ba41a12f3.htm)
+
+### Course Materials
+#### Exercise class
+[Lecture 4]()
+
+[Lecture 6]()
+
