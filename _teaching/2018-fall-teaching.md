@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Macroeconomics"
+title: "Intermediate Macroeconomics (2018 Fall)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2018-fall-teaching

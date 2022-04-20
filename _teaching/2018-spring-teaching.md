@@ -1,5 +1,5 @@
 ---
-title: "Field Study in Economics"
+title: "Field Study in Economics (2018 Spring)"
 collection: teaching
 type: "Undergraduate&Graduate course"
 permalink: /teaching/2018-spring-teaching
