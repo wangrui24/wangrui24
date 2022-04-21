@@ -20,3 +20,10 @@ location: "Beijing, China"
 [Lecture 7](http://wangrui24.github.io/files/teaching/Lecture07.pdf)
 [Lecture 8](http://wangrui24.github.io/files/teaching/Lecture08.pdf)
 
+### 拾遗
+1. 古典概型中有许多涉及排列组合的计算，这方面的一个比较好的参考资料为苏淳老师编写的《概率论》1.4节。
+
+2. 几本优秀的参考书：Casella&Berger的《Statistical Inference》，前面概率论部分写的极好，习题也比较精彩，爱不释手。 李贤平的《概率论(第三版)》,讲解深入浅出,唯一的不足是分布函数是左连续，与通常的定义不同。茆诗松的《概率论与数理统计》及配套题解。
+
+3. 关于copula的更多信息，可以参考Roger B. Nelsen的An Introduction to Copulas.
+
