@@ -18,4 +18,5 @@ location: "Beijing, China"
 [Lecture 4](http://wangrui24.github.io/files/teaching/Lecture04.pdf)
 [Lecture 6](http://wangrui24.github.io/files/teaching/Lecture06.pdf)
 [Lecture 7](http://wangrui24.github.io/files/teaching/Lecture07.pdf)
+[Lecture 8](http://wangrui24.github.io/files/teaching/Lecture08.pdf)
 
