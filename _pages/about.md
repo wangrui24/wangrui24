@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a master student from the Department of Biostatistics at the Peking University (PKU).
+Now I am a master student from the Department of Biostatistics at the Peking University (PKU). I will be a PhD student Department of Biostatistics at University of Washington this Fall.
 
 Research Interests
 -----------
@@ -24,3 +24,4 @@ Education
 Contact
 -----------
 wangruiruishou AT pku DOT edu DOT cn
+wangrui8 AT uw DOT edu
