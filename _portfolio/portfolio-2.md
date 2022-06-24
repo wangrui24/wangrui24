@@ -1,6 +1,6 @@
 ---
 title: "Graduation"
-excerpt: "This photo was taken at Peking University, Beijing<br/>"
+excerpt: "This photo was taken at Peking University, Beijing<br/><img src='/images/graduation.JPG'>"
 collection: portfolio
 ---
 <img src='/images/graduation.JPG'>
