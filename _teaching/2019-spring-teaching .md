@@ -2,7 +2,7 @@
 title: "Special Topics in China Economic Research"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-teaching
+permalink: /teaching/2019-spring-teaching
 venue: "National School of Development, Peking University"
 date: 2019-01-01
 location: "Beijing, China"
