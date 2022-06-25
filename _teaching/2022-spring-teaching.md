@@ -19,6 +19,9 @@ location: "Beijing, China"
 [Lecture 6](http://wangrui24.github.io/files/teaching/Lecture06.pdf)
 [Lecture 7](http://wangrui24.github.io/files/teaching/Lecture07.pdf)
 [Lecture 8](http://wangrui24.github.io/files/teaching/Lecture08.pdf)
+[Lecture 10](http://wangrui24.github.io/files/teaching/Lecture10.pdf)
+[Lecture 13](http://wangrui24.github.io/files/teaching/Lecture13.pdf)
+[Lecture 14](http://wangrui24.github.io/files/teaching/Lecture14.pdf)
 
 ### 拾遗
 1. 古典概型中有许多涉及排列组合的计算，这方面的一个比较好的参考资料为苏淳老师编写的《概率论》1.4节。
