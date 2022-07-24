@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be a PhD student in Department of Biostatistics at University of Washington this Fall.
+I am an incoming PhD student in Department of Biostatistics at University of Washington.
 
 Research Interests
 -----------
